@@ -5,3 +5,4 @@ More stuff in the README.
 Even more README stuff
 
 This is shit
+Let's try creating conflicts.
