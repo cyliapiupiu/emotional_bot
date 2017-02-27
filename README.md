@@ -7,3 +7,7 @@ Even more README stuff
 This is shit
 
 Let's try creating conflicts.
+
+TEST
+
+YAY. EVERYTHING IS AWESOME!!!
